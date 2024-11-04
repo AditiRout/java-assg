@@ -1,0 +1,6 @@
+name,rollno,sem,marks
+sachin,101,5,60
+rohit,145,1,69
+virat,118,3,72
+pandya,175,5,88
+ravi,185,5,57
